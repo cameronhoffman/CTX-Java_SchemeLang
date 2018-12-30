@@ -1,0 +1,15 @@
+RPAREN=9
+PLUS=6
+WS=2
+NEWLINE=3
+Number=1
+MINUS=7
+TIMES=4
+LPAREN=8
+DIVIDE=5
+'/'=5
+'('=8
+'-'=7
+'*'=4
+'+'=6
+')'=9
